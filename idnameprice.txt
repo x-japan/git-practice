@@ -1,5 +1,5 @@
-id name price
-1 apple 100
-2 banana 200
-3 corn 300
-4 donut 400
+id name price pref
+1 apple 100 aomori
+2 banana 200 okinawa
+3 corn 300 hokkaido
+4 donut 400 kyoto
